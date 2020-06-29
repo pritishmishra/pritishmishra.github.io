@@ -82,7 +82,8 @@ analytics:
 author:
   name             : "Pritish Mishra"
   avatar           : "profile.png"
-  bio              : "PhD Student at the University of Toronto"
+  #bio              : "PhD Student at the University of Toronto"
+  bio:
   location         : "Bangalore, India"
   employer         : 
   googlescholar    : "https://scholar.google.com/citations?user=Tjmnc3sAAAAJ&hl=en"
