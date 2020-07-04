@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 # Projects at SAP
-- ## Mobile Development Kit (MDK)
+- ## [Mobile Development Kit (MDK)](#mdk)
     - Team: SAP Mobile Services
     - Project Duration: ~ 1 year
     - Role: Senior Developer
@@ -18,7 +18,7 @@ author_profile: true
         - Acted as Security Lead for all applications deployed for Mobile (iOS/Android)
         - Performed penetration testing, threat modelling, i/o operations for application security
 
-- ## Service-Fabrik Broker
+- ## [Service-Fabrik Broker](#sf)
     - Team: SAP Cloud Platform
     - Project duration: ~ 3 years
     - Role: Developer
@@ -32,7 +32,7 @@ author_profile: true
         - Designed and developed a turbulence framework to ensure the resilience of all Service-Fabrik components against potential disasters like Network Failure, Disk Failure, AZ Failure, etc.
         - Implemented Monitoring & Alerting for Bosh/Docker based instances for all services provisioned via SAP Cloud Platform.
 
-- ## Service-Fabrik Backup & Restore Library
+- ## [Service-Fabrik Backup & Restore Library](#sfbr)
     - Team: SAP Cloud Platform
     - Project duration: ~ 3 years
     - Role: Developer
@@ -46,7 +46,7 @@ author_profile: true
         - Implemented Point-in-time Recovery Feature for Service-Fabrik Backup Restore Library and facilitated the support for other backing services like PostgreSQL, MongoDb and Redis. 
         - Designed a framework to reduce the Restore Turnaround Duration for backing services in-order to comply to better RTO SLAs.
 
-- ## CloudFoundry CLI Plugin
+- ## [CloudFoundry CLI Plugin](#cfcli)
     - Team: SAP Cloud Platform
     - Project Duration: 8 months
     - Modules Used: CloudFoundry, Docker, Kubernetes.
@@ -55,7 +55,7 @@ author_profile: true
     - Designed and developed CloudFoundry-based CLI plugin to create/manage backup and restore for backing services like Postgresql, Redis and MongoDb. The project is now Cloudfoundry-incubated.
 
 # Entrepreneurship
-- ## Hubris by SAP
+- ## [Hubris by SAP](#hubris)
     - Role: Co-founder and Tech Lead
     - Duration: 1 year
     - About: Hubris was a recommendation engine that could automatically tune databases and applications as per the unique needs of the user. It removed any need of manual intervention by a Database Admin and aimed to provide accurate and tailor-made recommendations for each unique scenario. This was a generic product that could be paired with any kind of database and a standard database could be made autonomous with this offering. During the run of 1 year, Hubris catered to nearly 8 companies (small/mid-scale customers).
@@ -74,7 +74,7 @@ author_profile: true
         - Designed framework for tuning of applications running on Java platform
 
 # Research Projects
-- ## WASM Based Serverless Framework
+- ## [WASM Based Serverless Framework](#wasm)
     - Languages Used: Rust, Bash.
     - Modules Used: WASM/WASI framework of Rust, Docker, Kubernetes.
     - Web-assembly as a potential for developing cloud-based platforms has been gaining a lot of popularity over the last few years. Inspired by the Mozilla-backed open-source projects
@@ -83,15 +83,15 @@ author_profile: true
         - "A Poor-man Serverless framework for cloud-based applications using web-assembly", presented at CloudFoundry Summit Europe 2019 and OpenSource Summit Japan 2019
     - A sneak-peek of this work was presented in the poster session of the Web Conf 2020. You can find the publication [here](https://dl.acm.org/doi/abs/10.1145/3366424.3382670).
 
-- ## Hybrid Distributed Collaborative Filtering Recommender Engine
+- ## [Hybrid Distributed Collaborative Filtering Recommender Engine](#ug)
     - Keywords: Recommendation System, Big Data Tools, Apache Spark, Collaborative Filtering, Machine Learning, K-means Clustering. 
     - Brief Details: The aim of the paper is to design a movie-recommendation engine using an algorithm which overcomes many disadvantages put forward by the prevalent techniques. The paper tries to leverage the benefits of big data tools and clustering techniques in-order to improve the throughput and maintain scalability of the engine.
 
 # Internship Projects
-- ## Stewarded Reference Table 2.0
+- ## [Stewarded Reference Table 2.0](#srt)
     - Team: Enterprise Business Intelligence at Dell International
     - Duration: 3 months
     - Brief Details: A self-service ETL portal which extracts and modifies (if required) data of a flat delimited file and pushes the data extracted into the Teradata database. This tool caters to over 1500 users of the enterprise
 
-- ## Electronic Door Surveillance
+- ## [Electronic Door Surveillance](#eds)
     - Brief Details: A product which records and displays the details of the persons who visited the client in his absence.
