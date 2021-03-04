@@ -4,6 +4,10 @@ title: ""
 permalink: /projects/
 author_profile: true
 ---
+# Projects at the University of Toronto
+- ## Stream Processing Framework
+    - More details [here](https://pritishmishra.github.io/projects/uoft)
+
 
 # Projects at SAP
 - ## [Mobile Development Kit (MDK)](#mdk)
