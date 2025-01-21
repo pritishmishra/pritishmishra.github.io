@@ -7,13 +7,13 @@ author_profile: true
 
 ## International Conferences
 
-[Falcon: Live Reconfiguration for Stateful Stream Processing on the Edge]()   
+[Falcon: Live Reconfiguration for Stateful Stream Processing on the Edge](https://ieeexplore.ieee.org/abstract/document/10818090)   
 **Pritish Mishra**, Nelson Bore, Brian Ramprasad, Myles Thiessen, Moshe Gabel, Alexandre da Silva Veith, Oana Balmau,
 Eyal de Lara   
 ACM/IEEE Symposium on Edge Computing, **SEC 2024**   
 <span style="color:#00adb5">Won Best Paper Award</span>
 
-[StreamBucket: In-Network Adaptation for Late-binding Stream Processing Systems]()  
+[StreamBucket: In-Network Adaptation for Late-binding Stream Processing Systems](https://ieeexplore.ieee.org/abstract/document/10815795)  
 Brian Ramprasad, **Pritish Mishra**, Maycon Peixoto, Eyal de Lara   
 IEEE International Conference on Cloud Networking, **CloudNet 2024**  
 <span style="color:#00adb5">Best Paper Candidate, Won Honourable Mention</span>
