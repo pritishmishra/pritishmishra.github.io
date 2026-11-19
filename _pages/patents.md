@@ -5,26 +5,26 @@ permalink: /patents/
 author_profile: true
 ---
   
-<span style="color:#00adb5">Peer to Peer architecture for Platform as a Service Offering: A web-assembly based execution framework</span>   
-Filed: Feb 28, 2020 | Patent number: US 16/804,849
+<span style="color:#00adb5">Generic peer-to-peer platform as a service framework</span>   
+Filed: Feb 28, 2020 | Application number: US 16/804,849
 
-<span style="color:#00adb5">Performance Throttling Identification Service for Autonomous Databases</span>  
-Filed: Jan 16, 2020 | Patent number: US 16/744,502
+<span style="color:#00adb5">Performance throttling identification service for autonomous databases as a service</span>  
+Filed: Jan 16, 2020 | Granted: Nov 14, 2023 | Patent number: US 11,816,589
 
-<span style="color:#00adb5">Connectivity Interfaces Optimization Recommendation Engine for Enterprise IT Systems</span>  
-Filed: Oct 24, 2019 | Patent number: US 16/662,267
+<span style="color:#00adb5">Connectivity interface optimization recommendation engine for enterprise system</span>  
+Filed: Oct 24, 2019 | Granted: Nov 30, 2021 | Patent number: US 11,188,924
 
-<span style="color:#00adb5">Function execution based on data locality/gravity</span>  
-Filed: Oct 23, 2019 | Patent number: US 16/661,016
+<span style="color:#00adb5">Function execution based on data locality and securing integration flows</span>  
+Filed: Oct 23, 2019 | Granted: Apr 12, 2022 | Patent number: US 11,301,562
 
-<span style="color:#00adb5">Workload mapping for tuning backing services in cloud</span>  
-Filed: Oct 21, 2019 | Patent number: US 16/659,380
+<span style="color:#00adb5">Database instance tuning in a cloud platform</span>  
+Filed: Oct 21, 2019 | Granted: Nov 29, 2022 | Patent number: US 11,514,275
 
-<span style="color:#00adb5">Cloud Resource Scaling Using Programmable-Network Traffic Statistics</span>  
-Filed: Apr 2, 2019 | Patent number: US 16/372,711
+<span style="color:#00adb5">Cloud resource scaling using programmable-network traffic statistics</span>  
+Filed: Apr 2, 2019 | Granted: Dec 15, 2020 | Patent number: US 10,868,732
 
-<span style="color:#00adb5">Generic DB Tuner as a Service</span>  
-Filed: Mar 13, 2019 | Patent number: US 16/351,737
+<span style="color:#00adb5">Generic autonomous database tuning as a service for managing backing services in cloud</span>  
+Filed: Mar 13, 2019 | Granted: Oct 26, 2021 | Patent number: US 11,157,471
 
-<span style="color:#00adb5">Provisioner Disaster-Recovery Framework for Platform-as-a-Service (PaaS) offering</span>  
-Filed: Dec 10, 2018 | Patent number: US 16/208,818
+<span style="color:#00adb5">Provisioner disaster-recovery framework for platform-as-a-service offering</span>  
+Filed: Dec 10, 2018 | Granted: Oct 13, 2020 | Patent number: US 10,805,182
