@@ -7,7 +7,7 @@ author_profile: true
 
 ## International Conferences
 
-Wagg: Cost-aware Aggregation of Windowing Operators in Stream Processing  
+[Wagg: Cost-aware Aggregation of Windowing Operators in Stream Processing](https://dl.acm.org/doi/abs/10.1145/3812836.3814774)  
 **Pritish Mishra**, Ruoyu Deng, Alexandre da Silva Veith, Oana Balmau, Eyal de Lara  
 International Workshop on Edge Systems, Analytics and Networking, **EdgeSys 2026**
 
