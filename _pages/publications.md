@@ -7,6 +7,10 @@ author_profile: true
 
 ## International Conferences
 
+Wagg: Cost-aware Aggregation of Windowing Operators in Stream Processing  
+**Pritish Mishra**, Ruoyu Deng, Alexandre da Silva Veith, Oana Balmau, Eyal de Lara  
+International Workshop on Edge Systems, Analytics and Networking, **EdgeSys 2026**
+
 [Falcon: Live Reconfiguration for Stateful Stream Processing on the Edge](https://ieeexplore.ieee.org/abstract/document/10818090)   
 **Pritish Mishra**, Nelson Bore, Brian Ramprasad, Myles Thiessen, Moshe Gabel, Alexandre da Silva Veith, Oana Balmau,
 Eyal de Lara   
@@ -56,3 +60,9 @@ IEEE Transactions on Network and Service Management, Volume 17, Issue 2, Pages 6
 [ISE: An Intelligent and Efficient Steganalysis Engine for Image Database in Big Data Systems](https://azjhpc.org/issua1/paper3.pdf)  
 Mayank Tiwary, **Pritish Mishra**, Mohammad S Obaidat, Deepak Puthal   
 Azerbaijan Journal of High Performance Computing, Vol 1, Issue 1, 2018, pp. 42-50
+
+## Preprints
+
+[FOLD: Fuzzy Online Deduplication for Very Large Evolving Datasets via Approximate Nearest Neighbor Search](https://arxiv.org/abs/2606.03001)  
+Nelson Bore, **Pritish Mishra**, Constantin Adam, Eyal de Lara, Oana Balmau  
+arXiv preprint arXiv:2606.03001, 2026
