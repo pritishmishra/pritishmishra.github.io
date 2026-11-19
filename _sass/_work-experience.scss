@@ -1,0 +1,56 @@
+/* ==========================================================================
+   Work Experience entries
+   Visual hierarchy: company > position (+ dates) > product > details.
+   ========================================================================== */
+
+$work-product-color: mix($text-color, $primary-color, 55%);
+$work-details-color: mix($text-color, $background-color, 78%);
+$work-muted-color: $light-gray;
+
+.work-entry {
+  margin: 1.25em 0 2em;
+
+  .work-company {
+    margin: 0;
+    font-size: $type-size-4;
+    color: $primary-color;
+  }
+
+  .work-role {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: baseline;
+    gap: 0 1em;
+    margin: 0.2em 0 0;
+  }
+
+  .work-position {
+    font-weight: bold;
+    color: $text-color;
+  }
+
+  .work-dates {
+    font-size: $type-size-6;
+    color: $work-muted-color;
+  }
+
+  .work-product {
+    margin: 0.2em 0 0.6em;
+    font-style: italic;
+    color: $work-product-color;
+
+    strong {
+      color: inherit;
+    }
+  }
+
+  ul {
+    margin-top: 0;
+    color: $work-details-color;
+  }
+
+  li {
+    margin-bottom: 0.35em;
+  }
+}

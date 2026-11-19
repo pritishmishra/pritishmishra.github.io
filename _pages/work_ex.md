@@ -7,9 +7,10 @@ author_profile: true
 
 ## Industry Experience
 
-### SAP Labs
-**Senior Developer** | 08/2016 – 08/2020  
-Product: **Service-Fabrik broker** — Multi-cloud service broker for SAP Cloud Platform
+<div class="work-entry" markdown="1">
+<h3 class="work-company">SAP Labs</h3>
+<p class="work-role"><span class="work-position">Senior Developer</span><span class="work-dates">08/2016 – 08/2020</span></p>
+<p class="work-product">Product: <strong>Service-Fabrik broker</strong> — Multi-cloud service broker for SAP Cloud Platform</p>
 
 * Contributed to multi-AZ high availability for the Service-Fabrik broker across AWS, GCP, Azure, and OpenStack, supporting 99.9% availability.
 * Implemented replication and failover mechanisms based on an adapted Raft protocol to maintain service continuity during component failures.
@@ -21,17 +22,22 @@ Product: **Service-Fabrik broker** — Multi-cloud service broker for SAP Cloud 
 * Enabled Azure general availability for the broker and backing services, and supported private-cloud delivery of SAP's platform-as-a-service offering.
 
 [More details on SAP projects](/projects/#sap-labs)
+</div>
 
 ## Internships
 
-### Dell International — Summer Intern
-05/2015 – 07/2015  
-Self-service ETL for enterprise business intelligence
+<div class="work-entry" markdown="1">
+<h3 class="work-company">Dell International</h3>
+<p class="work-role"><span class="work-position">Summer Intern</span><span class="work-dates">05/2015 – 07/2015</span></p>
+<p class="work-product">Self-service ETL for enterprise business intelligence</p>
 
 * Developed a self-service portal to extract and modify data from delimited files and load it into Teradata, supporting more than 1,500 enterprise users.
+</div>
 
-### Indian Institute of Technology (IIT) — Summer Intern
-05/2014 – 06/2014  
-Visitor recording and monitoring
+<div class="work-entry" markdown="1">
+<h3 class="work-company">Indian Institute of Technology (IIT)</h3>
+<p class="work-role"><span class="work-position">Summer Intern</span><span class="work-dates">05/2014 – 06/2014</span></p>
+<p class="work-product">Visitor recording and monitoring</p>
 
 * Developed a system to record and display visitor details while the client was away.
+</div>
