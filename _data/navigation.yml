@@ -1,25 +1,25 @@
 # main links links
 main:
+  - title: "Work Experience"
+    url: /work_ex/
+
   - title: "Publications"
     url: /publications/
 
   - title: "Patents"
-    url: /patents/    
+    url: /patents/
 
   - title: "Projects"
-    url: /projects/    
+    url: /projects/
 
-  - title: "Entrepreneurship"
-    url: /entrepreneurship/
-    
   - title: "Awards"
     url: /awards/
-  
+
   - title: "Service"
     url: /service/
 
-  - title: "Work Experience"
-    url: /work_ex/
+  - title: "Entrepreneurship"
+    url: /entrepreneurship/
 
   - title: "CV"
     url: /cv/
